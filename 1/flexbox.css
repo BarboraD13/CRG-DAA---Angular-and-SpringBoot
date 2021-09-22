@@ -1,0 +1,28 @@
+.box{
+    width:200px;
+    height:200px;
+    margin:5px;
+    border:6px solid #333;
+    border-radius: 12px;
+}
+
+.box1{
+    background-color:red;
+}
+
+.box2{
+    background-color:yellow;
+}
+
+.box3{
+    background-color:blue;
+}
+
+.flex{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: end;
+    height: 100vh;
+    border: 2px solid red;;
+}
